@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/ayush/OneDrive/Desktop/Coding/CPP/CP-31",
+      "program": "c:/Users/ayush/OneDrive/Desktop/Coding/CPP/CP-31/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
